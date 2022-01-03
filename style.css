@@ -6,7 +6,7 @@ body{
 
 }
 .home{
-    background-image: url(/img/top-banner.png);
+    background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
 }
 h1{
@@ -34,7 +34,7 @@ h1{
 
 /* dream section start */
 .dream{
-    background-image: url(/img/dream-bg.png);
+    background-image: url(img/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
     display: flex;
@@ -51,7 +51,7 @@ h1{
     padding: 10px;
     margin-right: 10px;
     margin-bottom: 50px;
-    background-image: url(/img/exp-bg.png);
+    background-image: url(img/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
