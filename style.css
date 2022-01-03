@@ -10,7 +10,7 @@ body{
     background-repeat: no-repeat;
 }
 h1{
-    font-size: 50px;
+    font-size: 30px;
 }
 .pera{
     text-align: justify;
@@ -38,8 +38,39 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
     display: flex;
+    margin-bottom: 100px;
     padding-right: 7%; 
 }
 .dream img{
     width: 100%;
+}
+
+/* experience section start */
+.expe{
+    display: flex;
+    padding: 10px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    background-image: url(/img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.expe1{
+    padding-left: 5%;
+    padding-right: 4%;
+    padding-bottom: 2%;
+    margin-left: 20px;
+    border: 2px solid black;
+    border-left: 10px solid rgb(139, 1, 131);
+    box-shadow: 10px 10px 4px rgb(177, 171, 171);
+}
+.expe2{
+    padding-left: 5%;
+    padding-right: 4%;
+    padding-bottom: 2%;
+    margin-left: 20px;
+    border: 2px solid black;
+    border-left: 10px solid rgb(139, 33, 1);
+    box-shadow: 10px 10px 4px rgb(177, 171, 171);
+
 }
