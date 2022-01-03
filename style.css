@@ -12,8 +12,12 @@ body{
 h1{
     font-size: 50px;
 }
+.pera{
+    text-align: justify;
+}
 .home{
     display: flex;
+    margin-bottom: 100px;
 }
 .home-text{
     padding-left: 5%;
@@ -26,4 +30,16 @@ h1{
     border-radius: 10px;
     color: white;
     font-weight: bold;
+}
+
+/* dream section start */
+.dream{
+    background-image: url(/img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    display: flex;
+    padding-right: 7%; 
+}
+.dream img{
+    width: 100%;
 }
